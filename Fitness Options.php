@@ -15,7 +15,7 @@
                 <li><a href="Main.php">Home</a></li>
                 <li><a href="Fitness Options.php">Fitness Options</a></li>
                 <li><a href="Login Page.php">Login</a></li>
-                <li><a href="Signup page.php">Sign Up</a></li>
+                <li><a href="Signup page.php">Join Today</a></li>
             </ul>
         </nav>
     </header>
@@ -31,6 +31,7 @@
             <div>
                 <div style="font-weight: bold; color: #ff6b6b; margin-top: 20px;">CARDIO</div> <br>
                 Our energetic Cardio Classes work your entire body and get your heart pumping. Get motivated, push past your limits and torch calories with a wide variety of endurance-building classes.
+                <a href="Signup Page.php">Learn More</a>
             </div>
         
         </div>
@@ -44,6 +45,7 @@
             <div>
                 <div style="font-weight: bold; color: #ff6b6b; margin-top: 20px;">STRENGTH</div> <br>
                 Rise to the challenge with GoodLife’s Strength Classes. Build muscle, achieve your weight loss goals and maintain bone density, no matter your fitness level.
+                <a href="Signup Page.php">Learn More</a>
             </div>
 
         </div>
@@ -57,6 +59,7 @@
             <div>
                 <div style="font-weight: bold; color: #ff6b6b; margin-top: 20px;">MIND & BODY</div> <br>
                 Put your mind at ease and get a full-body workout with GoodLife's Mind & Body Classes. Try everything from Hot Yoga to Pilates and sweat your way to a healthy state of mind.
+                <a href="Signup Page.php">Learn More</a>
             </div>
 
         </div>
@@ -70,6 +73,7 @@
             <div>
                 <div style="font-weight: bold; color: #ff6b6b; margin-top: 20px;">AQUA</div> <br>
                 GreatLife’s low-impact, high-energy Aqua Fitness Classes blend safe yet challenging cardio conditioning and full-body toning to give you an efficient workout in the pool. You might not see the sweat, but you’ll feel the burn.
+                <a href="Signup Page.php">Learn More</a>
             </div>
 
         </div>

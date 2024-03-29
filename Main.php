@@ -13,7 +13,7 @@
                 <li><a href="Main.php">Home</a></li>
                 <li><a href="Fitness Options.php">Fitness Options</a></li>
                 <li><a href="Login Page.php">Login</a></li>
-                <li><a href="Signup page.php">Sign Up</a></li>
+                <li><a href="Signup page.php">Join Today</a></li>
             </ul>
         </nav>
     </header>
@@ -22,7 +22,7 @@
 
         <div id="topbackground">
             <img id="image1" src="fitness high reso.jpg">
-            <img id="profilepic" src="GreatLife Fitness.png"> <br>
+            <img id="profilepic" src="Greatlife.jpg"> <br>
         </div>
 
         <div id="namebelowlogo">
